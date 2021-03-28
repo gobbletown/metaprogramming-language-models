@@ -2,3 +2,6 @@
 ** For writing blog articles
 *** Curation of links with GPT-3 meta-article writing
 https://www.twilio.com/blog/openai-gpt-3-chatbot-python-twilio-sms
+
+*** Semiosis blog posts
+https://semiosis.github.io/posts/
